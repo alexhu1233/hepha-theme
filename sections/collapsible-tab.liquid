@@ -1,0 +1,351 @@
+{% schema %}
+{
+    "name": "Collapsible Panels",
+    "settings": [
+        {
+            "type": "text",
+            "id": "title",
+            "label": "Title",
+            "default":"FAQ"
+        },
+        {
+            "type": "text",
+            "id": "title_de",
+            "label": "Title (德文)",
+            "default":"FAQ"
+        },
+        {
+            "type": "text",
+            "id": "title_fr",
+            "label": "Title (法文)",
+            "default":"FAQ"
+        },
+    ],
+    "blocks": [
+        {
+            "type": "panel",
+            "name": "Panel",
+            "settings": [
+                {
+                    "type": "text",
+                    "id": "title",
+                    "label": "Panel Title"
+                },
+                {
+                    "type": "text",
+                    "id": "title_de",
+                    "label": "Panel Title (德文)"
+                },
+                {
+                    "type": "text",
+                    "id": "title_fr",
+                    "label": "Panel Title (法文)"
+                },
+                {
+                    "type": "richtext",
+                    "id": "content_1",
+                    "label": "Panel Content 1"
+                },
+                {
+                    "type": "richtext",
+                    "id": "content_1_de",
+                    "label": "Panel Content 1 (德文)"
+                },
+                {
+                    "type": "richtext",
+                    "id": "content_1_fr",
+                    "label": "Panel Content 1 (法文)"
+                },
+                {
+                    "type": "image_picker",
+                    "id": "image_1",
+                    "label": "Panel Image 1"
+                },
+                {
+                    "type": "richtext",
+                    "id": "content_2",
+                    "label": "Panel Content 2"
+                },
+                {
+                    "type": "richtext",
+                    "id": "content_2_de",
+                    "label": "Panel Content 2 (德文)"
+                },
+                {
+                    "type": "richtext",
+                    "id": "content_2_fr",
+                    "label": "Panel Content 2 (法文)"
+                },
+                {
+                    "type": "image_picker",
+                    "id": "image_2",
+                    "label": "Panel Image 2"
+                },
+                {
+                    "type": "richtext",
+                    "id": "content_3",
+                    "label": "Panel Content 3"
+                },
+                {
+                    "type": "richtext",
+                    "id": "content_3_de",
+                    "label": "Panel Content 3 (德文)"
+                },
+                {
+                    "type": "richtext",
+                    "id": "content_3_fr",
+                    "label": "Panel Content 3 (法文)"
+                },
+                {
+                    "type": "image_picker",
+                    "id": "image_3",
+                    "label": "Panel Image 3"
+                },
+                {
+                    "type": "richtext",
+                    "id": "content_4",
+                    "label": "Panel Content 4"
+                },
+                {
+                    "type": "richtext",
+                    "id": "content_4_de",
+                    "label": "Panel Content 4 (德文)"
+                },
+                {
+                    "type": "richtext",
+                    "id": "content_4_fr",
+                    "label": "Panel Content 4 (法文)"
+                },
+                {
+                    "type": "image_picker",
+                    "id": "image_4",
+                    "label": "Panel Image 4"
+                },
+                {
+                    "type": "richtext",
+                    "id": "content_5",
+                    "label": "Panel Content 5"
+                },
+                {
+                    "type": "richtext",
+                    "id": "content_5_de",
+                    "label": "Panel Content 5 (德文)"
+                },
+                {
+                    "type": "richtext",
+                    "id": "content_5_fr",
+                    "label": "Panel Content 5 (法文)"
+                },
+                {
+                    "type": "image_picker",
+                    "id": "image_5",
+                    "label": "Panel Image 5"
+                },
+                {
+                    "type": "richtext",
+                    "id": "content_6",
+                    "label": "Panel Content 6"
+                },
+                {
+                    "type": "richtext",
+                    "id": "content_6_de",
+                    "label": "Panel Content 6 (德文)"
+                },
+                {
+                    "type": "richtext",
+                    "id": "content_6_fr",
+                    "label": "Panel Content 6 (法文)"
+                },
+                {
+                    "type": "image_picker",
+                    "id": "image_6",
+                    "label": "Panel Image 6"
+                }
+            ]
+        }
+    ],
+    "presets": [
+        {
+            "name": "Custom Collapsible Panels",
+            "category": "Custom"
+        }
+    ]
+}
+{% endschema %}
+
+<div class="custom-tab-container">
+    <h2 class="iconrow-title" data-localize="{{ section.settings.title }}">
+        {% if request.locale.iso_code == 'de' %}
+                    {{ section.settings.title_de }}
+                {% elsif request.locale.iso_code == 'fr' %}
+                    {{ section.settings.title_fr }}
+                {% else %}
+                    {{ section.settings.title }}
+                {% endif %}
+    </h2>
+    {% for block in section.blocks %}
+    <div class="custom-panel">
+        <div class="custom-panel-header" onclick="togglePanel(this)">
+            {% if request.locale.iso_code == 'de' %}
+                {{ block.settings.title_de }}
+            {% elsif request.locale.iso_code == 'fr' %}
+                {{ block.settings.title_fr }}
+            {% else %}
+                {{ block.settings.title }}
+            {% endif %}
+            <svg class="custom-arrow" fill="#000000" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 330">
+                <path d="M250.606,154.389l-150-149.996c-5.857-5.858-15.355-5.858-21.213,0.001
+                c-5.857,5.858-5.857,15.355,0.001,21.213l139.393,139.39L79.393,304.394c-5.857,5.858-5.857,15.355,0.001,21.213
+                C82.322,328.536,86.161,330,90,330s7.678-1.464,10.607-4.394l149.999-150.004c2.814-2.813,4.394-6.628,4.394-10.606
+                C255,161.018,253.42,157.202,250.606,154.389z"/>
+            </svg>
+        </div>
+        <div class="custom-panel-content">
+            <div class="custom-panel-text">
+                {% if request.locale.iso_code == 'de' %}
+                    {{ block.settings.content_1_de }}
+                {% elsif request.locale.iso_code == 'fr' %}
+                    {{ block.settings.content_1_fr }}
+                {% else %}
+                    {{ block.settings.content_1 }}
+                {% endif %}
+            </div>
+            {% if block.settings.image_1 %}
+                <img src="{{ block.settings.image_1 | img_url: 'original' }}" alt="{{ block.settings.title }}" class="contentimg"/>
+            {% endif %}
+            <div class="custom-panel-text">
+                {% if request.locale.iso_code == 'de' %}
+                    {{ block.settings.content_2_de }}
+                {% elsif request.locale.iso_code == 'fr' %}
+                    {{ block.settings.content_2_fr }}
+                {% else %}
+                    {{ block.settings.content_2 }}
+                {% endif %}
+            </div>
+            {% if block.settings.image_2 %}
+                <img src="{{ block.settings.image_2 | img_url: 'original' }}" alt="{{ block.settings.title }}" class="contentimg"/>
+            {% endif %}
+            <div class="custom-panel-text">
+                {% if request.locale.iso_code == 'de' %}
+                    {{ block.settings.content_3_de }}
+                {% elsif request.locale.iso_code == 'fr' %}
+                    {{ block.settings.content_3_fr }}
+                {% else %}
+                    {{ block.settings.content_3 }}
+                {% endif %}
+            </div>
+            {% if block.settings.image_3 %}
+                <img src="{{ block.settings.image_3 | img_url: 'original' }}" alt="{{ block.settings.title }}" class="contentimg"/>
+            {% endif %}
+            <div class="custom-panel-text">
+                {% if request.locale.iso_code == 'de' %}
+                    {{ block.settings.content_4_de }}
+                {% elsif request.locale.iso_code == 'fr' %}
+                    {{ block.settings.content_4_fr }}
+                {% else %}
+                    {{ block.settings.content_4 }}
+                {% endif %}
+            </div>
+            {% if block.settings.image_4 %}
+                <img src="{{ block.settings.image_4 | img_url: 'original' }}" alt="{{ block.settings.title }}" class="contentimg"/>
+            {% endif %}
+            <div class="custom-panel-text">
+                {% if request.locale.iso_code == 'de' %}
+                    {{ block.settings.content_5_de }}
+                {% elsif request.locale.iso_code == 'fr' %}
+                    {{ block.settings.content_5_fr }}
+                {% else %}
+                    {{ block.settings.content_5 }}
+                {% endif %}
+            </div>
+            {% if block.settings.image_5 %}
+                <img src="{{ block.settings.image_5 | img_url: 'original' }}" alt="{{ block.settings.title }}" class="contentimg"/>
+            {% endif %}
+            <div class="custom-panel-text">
+                {% if request.locale.iso_code == 'de' %}
+                    {{ block.settings.content_6_de }}
+                {% elsif request.locale.iso_code == 'fr' %}
+                    {{ block.settings.content_6_fr }}
+                {% else %}
+                    {{ block.settings.content_6 }}
+                {% endif %}
+            </div>
+            {% if block.settings.image_6 %}
+                <img src="{{ block.settings.image_6 | img_url: 'original' }}" alt="{{ block.settings.title }}" class="contentimg"/>
+            {% endif %}
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+<script>
+    function togglePanel(header) {
+        const content = header.nextElementSibling;
+        const arrow = header.querySelector('.custom-arrow');
+
+        if (content.style.display === "block") {
+            content.style.display = "none";
+            header.classList.remove('expanded');
+        } else {
+            content.style.display = "block";
+            header.classList.add('expanded');
+        }
+    }
+</script>
+
+<style>
+    .iconrow-title {
+        font-size: 30px;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+
+    .custom-tab-container {
+        max-width: 1200px;
+        margin: 0 auto 60px;
+        padding: 20px;
+    }
+    .custom-panel {
+        background-color: white;
+        margin: 10px 0;
+        border-bottom: 1px solid #ddd;
+    }
+    .custom-panel-header {
+        padding: 10px;
+        cursor: pointer;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-weight: bold;
+        font-size: 18px;
+    }
+    .custom-panel-content {
+        display: none;
+        padding: 10px;
+        font-size: 16px;
+    }
+
+    .custom-panel-text a {
+        text-decoration: underline;
+        color: #1890ff;
+    }
+
+    .custom-arrow {
+        width: 14px;
+        height: 14px;
+        transition: transform 0.3s;
+    }
+    .expanded .custom-arrow {
+        transform: rotate(90deg);
+    }
+
+    @media (max-width: 768px) {
+        .contentimg {
+            width: 100%;
+            height: auto; 
+            max-width: 100%; 
+        }
+    }
+</style>
+
+

@@ -1,0 +1,84 @@
+{% schema %}
+  {
+    "name": "Csutom stickybar",
+    "settings": [],
+     "presets": [
+    {
+      "name": "Csutom stickybar",
+      "category": "Custom"
+    }
+  ]
+  }
+{% endschema %}
+
+<style>
+    html {
+        scroll-behavior: smooth;
+    }
+
+    .stickyNavigation {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        background-color: rgb(255, 255, 255);
+        padding: 1em 2em;
+        width: 100%;
+        box-shadow: rgba(91, 104, 113, 0.1) 0px 6px 8px;
+        transform: translateY(0px);
+        transition: box-shadow 0.2s, transform 0.2s;
+        z-index: 100 !important;
+    }
+
+    .stickyNavigationleft {
+        display: flex;
+        align-items: center;
+        gap: 4rem;
+    }
+
+    .stickyNavigation-title {
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .stickyNavigation-links {
+        display: flex;
+        gap: 20px;
+    }
+
+    .stickyNavigation-links a {
+        text-decoration: none;
+        color: #333;
+    }
+
+    .button.button--large {
+    white-space: nowrap !important;
+}
+
+    @media (max-width: 768px) {
+        .stickyNavigation-links {
+            display: none;
+        }
+
+        .stickyNavigation {
+            padding: 1em;
+        }
+
+        .stickyNavigation-title {
+            font-size: 18px;
+            line-height: 20px;
+        }
+    }
+</style>
+
+<div class="stickyNavigation" id="stickyNavigation">
+    <div class="stickyNavigationleft">
+        <div class="stickyNavigation-title">{{ product.title }}</div>
+        <div class="stickyNavigation-links">
+            <a href="#highlights">{{ 'ebike.highlights' | t }}</a>
+            <a href="#specification">{{ 'ebike.specification' | t }}</a>
+            <a href="#frame_geometry">{{ 'ebike.frame_geometry' | t }}</a>
+           <a href="#looxReviews">{{ 'ebike.review' | t }}</a>
+        </div>
+    </div>
+    <div id="buttonContainer" class="buttonContainer"></div>
+</div>

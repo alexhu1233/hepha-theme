@@ -1,0 +1,13 @@
+{
+    "parent": "product.trekking-7-se-2.json",
+    "context": {
+        "market": "austria"
+    },
+    "sections": {
+        "custom_two_colum_banner_giBJKD": {
+            "disabled": true,
+            "settings": {},
+            "blocks": {}
+        }
+    }
+}

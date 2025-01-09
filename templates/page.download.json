@@ -1,0 +1,278 @@
+{
+    "sections": {
+        "main": {
+            "type": "main-page",
+            "disabled": true,
+            "settings": {
+                "full_width": true
+            }
+        },
+        "custom_textarea_9XWaQf": {
+            "type": "custom_textarea",
+            "custom_css": [
+                ".custom-tab-container {margin-bottom: 0px !important; padding: 0 !important;}",
+                ".custom-text-area {justify-content: center; text-align: center; padding: 60px 0 0 0;}",
+                ".description-and-items {text-align: center; justify-content: center;}"
+            ],
+            "settings": {
+                "section_title": "Download",
+                "section_title_de": "Herunterladen",
+                "section_title_fr": "Télécharger",
+                "text_description": "Find all the manuals you need.",
+                "text_description_de": "Finden Sie alle benötigten Bedienungsanleitungen.",
+                "text_description_fr": "Trouvez tous les manuels dont vous avez besoin.",
+                "title_font_size": 40,
+                "text_font_size": 18,
+                "show_item_list": true,
+                "layout": "title_above",
+                "item_font_size": 16,
+                "custom_icon": "solid_dot"
+            }
+        },
+        "collapsible_tab_9AMgAj": {
+            "type": "collapsible_tab",
+            "blocks": {
+                "panel_B8CMRy": {
+                    "type": "panel",
+                    "settings": {
+                        "title": "HEPHA Trekking 7 & Mountain 7 User Manual",
+                        "title_de": "HEPHA Trekking 7 & Mountain 7 Benutzerhandbuch",
+                        "title_fr": "Manuel d'utilisation HEPHA Trekking 7 et Mountain 7",
+                        "content_1": "<p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Trekking_7_User_Manual-_99_Pre-assembled_8b27a223-518c-4434-90c6-50a610afd455.pdf?v=1696842918\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Trekking_7_User_Manual-_99_Pre-assembled_8b27a223-518c-4434-90c6-50a610afd455.pdf?v=1696842918\">99% Pre-assembled: Download<\/a><\/p>",
+                        "content_1_de": "<p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Trekking_7_User_Manual-_99_Pre-assembled_8b27a223-518c-4434-90c6-50a610afd455.pdf?v=1696842918\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Trekking_7_User_Manual-_99_Pre-assembled_8b27a223-518c-4434-90c6-50a610afd455.pdf?v=1696842918\">99% vormontiert: Herunterladen<\/a><\/p>",
+                        "content_1_fr": "<p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Trekking_7_User_Manual-_99_Pre-assembled_8b27a223-518c-4434-90c6-50a610afd455.pdf?v=1696842918\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Trekking_7_User_Manual-_99_Pre-assembled_8b27a223-518c-4434-90c6-50a610afd455.pdf?v=1696842918\">99% pré-assemblé : Télécharger<\/a><\/p>",
+                        "content_2": "",
+                        "content_2_de": "",
+                        "content_2_fr": "",
+                        "content_3": "",
+                        "content_3_de": "",
+                        "content_3_fr": "",
+                        "content_4": "",
+                        "content_4_de": "",
+                        "content_4_fr": "",
+                        "content_5": "",
+                        "content_5_de": "",
+                        "content_5_fr": "",
+                        "content_6": "",
+                        "content_6_de": "",
+                        "content_6_fr": ""
+                    }
+                },
+                "panel_9tWLTD": {
+                    "type": "panel",
+                    "settings": {
+                        "title": "HEPHA Trekking 7 LTD User Manual",
+                        "title_de": "HEPHA Trekking 7 LTD Benutzerhandbuch",
+                        "title_fr": "Manuel d'utilisation de HEPHA Trekking 7 LTD",
+                        "content_1": "<p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking_7.pdf?v=1655545428\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking_7.pdf?v=1655545428\">85% Pre-assembled: Download<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Trekking_7_User_Manual-_99_Pre-assembled_8b27a223-518c-4434-90c6-50a610afd455.pdf?v=1696842918\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Trekking_7_User_Manual-_99_Pre-assembled_8b27a223-518c-4434-90c6-50a610afd455.pdf?v=1696842918\">99% Pre-assembled: Download<\/a><\/p>",
+                        "content_1_de": "<p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking_7.pdf?v=1655545428\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking_7.pdf?v=1655545428\">99% vormontiert: Herunterladen<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Trekking_7_User_Manual-_99_Pre-assembled_8b27a223-518c-4434-90c6-50a610afd455.pdf?v=1696842918\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Trekking_7_User_Manual-_99_Pre-assembled_8b27a223-518c-4434-90c6-50a610afd455.pdf?v=1696842918\">99% vormontiert: Herunterladen<\/a><\/p>",
+                        "content_1_fr": "<p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking_7.pdf?v=1655545428\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking_7.pdf?v=1655545428\">85% pré-assemblé : Télécharger<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Trekking_7_User_Manual-_99_Pre-assembled_8b27a223-518c-4434-90c6-50a610afd455.pdf?v=1696842918\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Trekking_7_User_Manual-_99_Pre-assembled_8b27a223-518c-4434-90c6-50a610afd455.pdf?v=1696842918\">85% pré-assemblé : Télécharger<\/a><\/p>",
+                        "content_2": "",
+                        "content_2_de": "",
+                        "content_2_fr": "",
+                        "content_3": "",
+                        "content_3_de": "",
+                        "content_3_fr": "",
+                        "content_4": "",
+                        "content_4_de": "",
+                        "content_4_fr": "",
+                        "content_5": "",
+                        "content_5_de": "",
+                        "content_5_fr": "",
+                        "content_6": "",
+                        "content_6_de": "",
+                        "content_6_fr": ""
+                    }
+                },
+                "panel_99NhqH": {
+                    "type": "panel",
+                    "settings": {
+                        "title": "HEPHA Trekking 7 Display User Manual",
+                        "title_de": "HEPHA Trekking 7 Display Benutzerhandbuch",
+                        "title_fr": "Manuel d'utilisation de l'écran HEPHA Trekking 7",
+                        "content_1": "<p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Display_Manual_German.pdf?v=1720678775\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Display_Manual_German.pdf?v=1720678775\">Download - German<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Display_Manual_French.pdf?v=1720678784\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Display_Manual_French.pdf?v=1720678784\">Download - French<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Trekking_7_Display_Manual_EN.pdf?v=1718957990\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Trekking_7_Display_Manual_EN.pdf?v=1718957990\">Download - English<\/a><\/p>",
+                        "content_1_de": "<p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Display_Manual_German.pdf?v=1720678775\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Display_Manual_German.pdf?v=1720678775\">Download - Deutsch<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Display_Manual_French.pdf?v=1720678784\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Display_Manual_French.pdf?v=1720678784\">Download - Französisch<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Trekking_7_Display_Manual_EN.pdf?v=1718957990\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Trekking_7_Display_Manual_EN.pdf?v=1718957990\">Download - Englisch<\/a><\/p>",
+                        "content_1_fr": "<p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Display_Manual_German.pdf?v=1720678775\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Display_Manual_German.pdf?v=1720678775\">Télécharger - Allemand<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Display_Manual_French.pdf?v=1720678784\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Display_Manual_French.pdf?v=1720678784\">Télécharger - Français<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Trekking_7_Display_Manual_EN.pdf?v=1718957990\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Trekking_7_Display_Manual_EN.pdf?v=1718957990\">Télécharger - anglais<\/a><\/p>",
+                        "content_2": "",
+                        "content_2_de": "",
+                        "content_2_fr": "",
+                        "content_3": "",
+                        "content_3_de": "",
+                        "content_3_fr": "",
+                        "content_4": "",
+                        "content_4_de": "",
+                        "content_4_fr": "",
+                        "content_5": "",
+                        "content_5_de": "",
+                        "content_5_fr": "",
+                        "content_6": "",
+                        "content_6_de": "",
+                        "content_6_fr": ""
+                    }
+                },
+                "panel_BMydVc": {
+                    "type": "panel",
+                    "settings": {
+                        "title": "HEPHA Trekking 7 LTD Display User Manual",
+                        "title_de": "HEPHA Trekking 7  LTD Display Benutzerhandbuch",
+                        "title_fr": "HEPHA Trekking 7 LTD Display-Benutzerhandbuch",
+                        "content_1": "<p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking_7_LTD_Display_User_Manual.pdf?v=1722318858\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking_7_LTD_Display_User_Manual.pdf?v=1722318858\">Download<\/a><\/p>",
+                        "content_1_de": "<p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking_7_LTD_Display_User_Manual.pdf?v=1722318858\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking_7_LTD_Display_User_Manual.pdf?v=1722318858\">Herunterladen<\/a><\/p>",
+                        "content_1_fr": "<p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking_7_LTD_Display_User_Manual.pdf?v=1722318858\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking_7_LTD_Display_User_Manual.pdf?v=1722318858\">Télécharger<\/a><\/p>",
+                        "content_2": "",
+                        "content_2_de": "",
+                        "content_2_fr": "",
+                        "content_3": "",
+                        "content_3_de": "",
+                        "content_3_fr": "",
+                        "content_4": "",
+                        "content_4_de": "",
+                        "content_4_fr": "",
+                        "content_5": "",
+                        "content_5_de": "",
+                        "content_5_fr": "",
+                        "content_6": "",
+                        "content_6_de": "",
+                        "content_6_fr": ""
+                    }
+                },
+                "panel_meCLjd": {
+                    "type": "panel",
+                    "settings": {
+                        "title": "HEPHA Trekking 7 LTD Specification Sheets",
+                        "title_de": "HEPHA Trekking 7 LTD Spezifikationsblätter",
+                        "title_fr": "Fiches techniques du HEPHA Trekking 7 LTD",
+                        "content_1": "<p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Longrange-Low_step.pdf?v=1687843977\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Longrange-Low_step.pdf?v=1687843977\">Trekking 7 LTD Longrange Lowstep<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Longrange-High_step.pdf?v=1687838244\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Longrange-High_step.pdf?v=1687838244\">Trekking 7 LTD Highstep<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Performance-Low_step.pdf?v=1687844999\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Performance-Low_step.pdf?v=1687844999\">Trekking 7 LTD Performance Lowstep<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Performance-High_step.pdf?v=1687844758\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Performance-High_step.pdf?v=1687844758\">Trekking 7 LTD Performance Highstep<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Ultra-Low_step.pdf?v=1687845248\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Ultra-Low_step.pdf?v=1687845248\">Trekking 7 LTD Ultra Lowstep<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Ultra-High_step.pdf?v=1687845247\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Ultra-High_step.pdf?v=1687845247\">Trekking 7 LTD Ultra Highstep<\/a><\/p>",
+                        "content_1_de": "<p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Longrange-Low_step.pdf?v=1687843977\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Longrange-Low_step.pdf?v=1687843977\">Trekking 7 LTD Longrange Lowstep<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Longrange-High_step.pdf?v=1687838244\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Longrange-High_step.pdf?v=1687838244\">Trekking 7 LTD Highstep<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Performance-Low_step.pdf?v=1687844999\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Performance-Low_step.pdf?v=1687844999\">Trekking 7 LTD Performance Lowstep<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Performance-High_step.pdf?v=1687844758\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Performance-High_step.pdf?v=1687844758\">Trekking 7 LTD Performance Highstep<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Ultra-Low_step.pdf?v=1687845248\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Ultra-Low_step.pdf?v=1687845248\">Trekking 7 LTD Ultra Lowstep<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Ultra-High_step.pdf?v=1687845247\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Ultra-High_step.pdf?v=1687845247\">Trekking 7 LTD Ultra Highstep<\/a><\/p>",
+                        "content_1_fr": "<p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Longrange-Low_step.pdf?v=1687843977\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Longrange-Low_step.pdf?v=1687843977\">Trekking 7 LTD Longrange Lowstep<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Longrange-High_step.pdf?v=1687838244\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Longrange-High_step.pdf?v=1687838244\">Trekking 7 LTD Highstep<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Performance-Low_step.pdf?v=1687844999\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Performance-Low_step.pdf?v=1687844999\">Trekking 7 LTD Performance Lowstep<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Performance-High_step.pdf?v=1687844758\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Performance-High_step.pdf?v=1687844758\">Trekking 7 LTD Performance Highstep<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Ultra-Low_step.pdf?v=1687845248\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Ultra-Low_step.pdf?v=1687845248\">Trekking 7 LTD Ultra Lowstep<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Ultra-High_step.pdf?v=1687845247\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Ultra-High_step.pdf?v=1687845247\">Trekking 7 LTD Ultra Highstep<\/a><\/p>",
+                        "content_2": "",
+                        "content_2_de": "",
+                        "content_2_fr": "",
+                        "content_3": "",
+                        "content_3_de": "",
+                        "content_3_fr": "",
+                        "content_4": "",
+                        "content_4_de": "",
+                        "content_4_fr": "",
+                        "content_5": "",
+                        "content_5_de": "",
+                        "content_5_fr": "",
+                        "content_6": "",
+                        "content_6_de": "",
+                        "content_6_fr": ""
+                    }
+                },
+                "panel_wcBkir": {
+                    "type": "panel",
+                    "disabled": true,
+                    "settings": {
+                        "title": "HEPHA 2025 - Specification Sheets",
+                        "title_de": "HEPHA 2025 - Spezifikationsblätter",
+                        "title_fr": "HEPHA 2025 - Fiches techniques",
+                        "content_1": "<p><strong>All Mountain 7 Carbon<\/strong><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7_Ultra.pdf?v=1731922670\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7_Ultra.pdf?v=1731922670\">All Mountain 7 Carbon Ultra<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7-Performance.pdf?v=1731922671\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7-Performance.pdf?v=1731922671\">All Mountain 7 Carbon Performance<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7-LongRange.pdf?v=1731922670\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7-LongRange.pdf?v=1731922670\">All Mountain 7 Carbon Long Range<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7-Limited.pdf?v=1731922670\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7-Limited.pdf?v=1731922670\">All Mountain 7 Carbon Limited<\/a><\/p><p><strong>Mountain 7<\/strong><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Mountain7_Ultra.pdf?v=1731922671\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Mountain7_Ultra.pdf?v=1731922671\">Mountain 7 Ultra<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Mountain7-Performance.pdf?v=1731922671\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Mountain7-Performance.pdf?v=1731922671\">Mountain 7 Performance<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Mountain7-LongRange.pdf?v=1731922671\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Mountain7-LongRange.pdf?v=1731922671\">Mountain 7 Long Range<\/a><\/p><p><strong>Trekking 7<\/strong><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Ultra_12bcf321-5096-47cb-b521-e51ffd2210ae.pdf?v=1732034266\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Ultra_12bcf321-5096-47cb-b521-e51ffd2210ae.pdf?v=1732034266\">Trekking 7 Ultra+<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Ultra.pdf?v=1732264372\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Ultra.pdf?v=1732264372\">Trekking 7 Ultra<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Performance.pdf?v=1732264354\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Performance.pdf?v=1732264354\">Trekking 7 Performance<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-LongRange.pdf?v=1732264341\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-LongRange.pdf?v=1732264341\">Trekking 7 Long Range<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Limited.pdf?v=1732264380\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Limited.pdf?v=1732264380\">Trekking 7 Limited<\/a><\/p><p><strong>City 7<\/strong><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_City7_Ultra.pdf?v=1731922672\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_City7_Ultra.pdf?v=1731922672\">City 7 Ultra<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_City7-LongRange.pdf?v=1732264392\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_City7-LongRange.pdf?v=1732264392\">City 7 Long Range<\/a><\/p>",
+                        "content_1_de": "<p><strong>All Mountain 7 Carbon<\/strong><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7_Ultra.pdf?v=1731922670\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7_Ultra.pdf?v=1731922670\">All Mountain 7 Carbon Ultra<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7-Performance.pdf?v=1731922671\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7-Performance.pdf?v=1731922671\">All Mountain 7 Carbon Performance<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7-LongRange.pdf?v=1731922670\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7-LongRange.pdf?v=1731922670\">All Mountain 7 Carbon Long Range<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7-Limited.pdf?v=1731922670\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7-Limited.pdf?v=1731922670\">All Mountain 7 Carbon Limited<\/a><\/p><p><strong>Mountain 7<\/strong><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Mountain7_Ultra.pdf?v=1731922671\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Mountain7_Ultra.pdf?v=1731922671\">Mountain 7 Ultra<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Mountain7-Performance.pdf?v=1731922671\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Mountain7-Performance.pdf?v=1731922671\">Mountain 7 Performance<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Mountain7-LongRange.pdf?v=1731922671\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Mountain7-LongRange.pdf?v=1731922671\">Mountain 7 Long Range<\/a><\/p><p><strong>Trekking 7<\/strong><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Ultra_12bcf321-5096-47cb-b521-e51ffd2210ae.pdf?v=1732034266\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Ultra_12bcf321-5096-47cb-b521-e51ffd2210ae.pdf?v=1732034266\">Trekking 7 Ultra+<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Ultra.pdf?v=1732264372\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Ultra.pdf?v=1732264372\">Trekking 7 Ultra<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Performance.pdf?v=1732264354\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Performance.pdf?v=1732264354\">Trekking 7 Performance<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-LongRange.pdf?v=1732264341\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-LongRange.pdf?v=1732264341\">Trekking 7 Long Range<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Limited.pdf?v=1732264380\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Limited.pdf?v=1732264380\">Trekking 7 Limited<\/a><\/p><p><strong>City 7<\/strong><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_City7_Ultra.pdf?v=1731922672\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_City7_Ultra.pdf?v=1731922672\">City 7 Ultra<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_City7-LongRange.pdf?v=1732264392\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_City7-LongRange.pdf?v=1732264392\">City 7 Long Range<\/a><\/p>",
+                        "content_1_fr": "<p><strong>All Mountain 7 Carbon<\/strong><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7_Ultra.pdf?v=1731922670\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7_Ultra.pdf?v=1731922670\">All Mountain 7 Carbon Ultra<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7-Performance.pdf?v=1731922671\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7-Performance.pdf?v=1731922671\">All Mountain 7 Carbon Performance<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7-LongRange.pdf?v=1731922670\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7-LongRange.pdf?v=1731922670\">All Mountain 7 Carbon Long Range<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7-Limited.pdf?v=1731922670\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7-Limited.pdf?v=1731922670\">All Mountain 7 Carbon Limited<\/a><\/p><p><strong>Mountain 7<\/strong><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Mountain7_Ultra.pdf?v=1731922671\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Mountain7_Ultra.pdf?v=1731922671\">Mountain 7 Ultra<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Mountain7-Performance.pdf?v=1731922671\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Mountain7-Performance.pdf?v=1731922671\">Mountain 7 Performance<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Mountain7-LongRange.pdf?v=1731922671\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Mountain7-LongRange.pdf?v=1731922671\">Mountain 7 Long Range<\/a><\/p><p><strong>Trekking 7<\/strong><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Ultra_12bcf321-5096-47cb-b521-e51ffd2210ae.pdf?v=1732034266\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Ultra_12bcf321-5096-47cb-b521-e51ffd2210ae.pdf?v=1732034266\">Trekking 7 Ultra+<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Ultra.pdf?v=1732264372\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Ultra.pdf?v=1732264372\">Trekking 7 Ultra<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Performance.pdf?v=1732264354\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Performance.pdf?v=1732264354\">Trekking 7 Performance<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-LongRange.pdf?v=1732264341\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-LongRange.pdf?v=1732264341\">Trekking 7 Long Range<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Limited.pdf?v=1732264380\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Limited.pdf?v=1732264380\">Trekking 7 Limited<\/a><\/p><p><strong>City 7<\/strong><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_City7_Ultra.pdf?v=1731922672\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_City7_Ultra.pdf?v=1731922672\">City 7 Ultra<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_City7-LongRange.pdf?v=1732264392\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_City7-LongRange.pdf?v=1732264392\">City 7 Long Range<\/a><\/p>",
+                        "content_2": "",
+                        "content_2_de": "",
+                        "content_2_fr": "",
+                        "content_3": "",
+                        "content_3_de": "",
+                        "content_3_fr": "",
+                        "content_4": "",
+                        "content_4_de": "",
+                        "content_4_fr": "",
+                        "content_5": "",
+                        "content_5_de": "",
+                        "content_5_fr": "",
+                        "content_6": "",
+                        "content_6_de": "",
+                        "content_6_fr": ""
+                    }
+                }
+            },
+            "block_order": [
+                "panel_B8CMRy",
+                "panel_9tWLTD",
+                "panel_99NhqH",
+                "panel_BMydVc",
+                "panel_meCLjd",
+                "panel_wcBkir"
+            ],
+            "settings": {
+                "title": "",
+                "title_de": "",
+                "title_fr": ""
+            }
+        },
+        "16454987371479c140": {
+            "type": "collapsible-tabs",
+            "blocks": {
+                "74b58b59-664c-48db-843e-12796020e0ee": {
+                    "type": "question",
+                    "settings": {
+                        "title": "Hepha Trekking 7 & Mountain 7 User Manual",
+                        "answer": "<p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Trekking_7_User_Manual-_99_Pre-assembled_8b27a223-518c-4434-90c6-50a610afd455.pdf?v=1696842918\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Trekking_7_User_Manual-_99_Pre-assembled_8b27a223-518c-4434-90c6-50a610afd455.pdf?v=1696842918\">99% Pre-assembled: Download<\/a><\/p>"
+                    }
+                },
+                "question_CQHRK7": {
+                    "type": "question",
+                    "settings": {
+                        "title": "Hepha Trekking 7 LTD User Manual",
+                        "answer": "<p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking_7.pdf?v=1655545428\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking_7.pdf?v=1655545428\">85% Pre-assembled: Download<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Trekking_7_User_Manual-_99_Pre-assembled_8b27a223-518c-4434-90c6-50a610afd455.pdf?v=1696842918\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Trekking_7_User_Manual-_99_Pre-assembled_8b27a223-518c-4434-90c6-50a610afd455.pdf?v=1696842918\">99% Pre-assembled: Download<\/a><\/p>"
+                    }
+                },
+                "39746658-b8a4-40cf-ab63-be50d971dfee": {
+                    "type": "question",
+                    "settings": {
+                        "title": "Hepha Trekking 7 Display User Manual",
+                        "answer": "<p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Display_Manual_German.pdf?v=1720678775\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Display_Manual_German.pdf?v=1720678775\">Download - German<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Display_Manual_French.pdf?v=1720678784\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Display_Manual_French.pdf?v=1720678784\">Download - French<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Trekking_7_Display_Manual_EN.pdf?v=1718957990\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Hepha_Trekking_7_Display_Manual_EN.pdf?v=1718957990\">Download - English<\/a><\/p>"
+                    }
+                },
+                "question_bqxE6C": {
+                    "type": "question",
+                    "settings": {
+                        "title": "Hepha Trekking 7 LTD Display User Manual",
+                        "answer": "<p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking_7_LTD_Display_User_Manual.pdf?v=1722318858\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking_7_LTD_Display_User_Manual.pdf?v=1722318858\">Download<\/a><\/p>"
+                    }
+                },
+                "14a3ac45-2786-4a9f-9c0c-ba5be5718843": {
+                    "type": "question",
+                    "settings": {
+                        "title": "Hepha Trekking 7 LTD Specification Sheets",
+                        "answer": "<p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Longrange-Low_step.pdf?v=1687843977\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Longrange-Low_step.pdf?v=1687843977\">Trekking 7 LTD Longrange Lowstep<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Longrange-High_step.pdf?v=1687838244\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Longrange-High_step.pdf?v=1687838244\">Trekking 7 LTD Highstep<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Performance-Low_step.pdf?v=1687844999\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Performance-Low_step.pdf?v=1687844999\">Trekking 7 LTD Performance Lowstep<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Performance-High_step.pdf?v=1687844758\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Performance-High_step.pdf?v=1687844758\">Trekking 7 LTD Performance Highstep<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Ultra-Low_step.pdf?v=1687845248\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Ultra-Low_step.pdf?v=1687845248\">Trekking 7 LTD Ultra Lowstep<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Ultra-High_step.pdf?v=1687845247\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/Trekking7-Ultra-High_step.pdf?v=1687845247\">Trekking 7 LTD Ultra Highstep<\/a><\/p>"
+                    }
+                },
+                "question_V9wFTB": {
+                    "type": "question",
+                    "settings": {
+                        "title": "Hepha 2025 - Specification Sheets",
+                        "answer": "<p><strong>All Mountain 7 Carbon<\/strong><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7_Ultra.pdf?v=1731922670\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7_Ultra.pdf?v=1731922670\">All Mountain 7 Carbon Ultra<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7-Performance.pdf?v=1731922671\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7-Performance.pdf?v=1731922671\">All Mountain 7 Carbon Performance<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7-LongRange.pdf?v=1731922670\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7-LongRange.pdf?v=1731922670\">All Mountain 7 Carbon Long Range<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7-Limited.pdf?v=1731922670\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_AllMountain7-Limited.pdf?v=1731922670\">All Mountain 7 Carbon Limited<\/a><\/p><p><strong>Mountain 7<\/strong><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Mountain7_Ultra.pdf?v=1731922671\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Mountain7_Ultra.pdf?v=1731922671\">Mountain 7 Ultra<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Mountain7-Performance.pdf?v=1731922671\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Mountain7-Performance.pdf?v=1731922671\">Mountain 7 Performance<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Mountain7-LongRange.pdf?v=1731922671\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Mountain7-LongRange.pdf?v=1731922671\">Mountain 7 Long Range<\/a><\/p><p><strong>Trekking 7<\/strong><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Ultra_12bcf321-5096-47cb-b521-e51ffd2210ae.pdf?v=1732034266\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Ultra_12bcf321-5096-47cb-b521-e51ffd2210ae.pdf?v=1732034266\">Trekking 7 Ultra+<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Ultra.pdf?v=1732264372\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Ultra.pdf?v=1732264372\">Trekking 7 Ultra<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Performance.pdf?v=1732264354\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Performance.pdf?v=1732264354\">Trekking 7 Performance<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-LongRange.pdf?v=1732264341\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-LongRange.pdf?v=1732264341\">Trekking 7 Long Range<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Limited.pdf?v=1732264380\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_Trekking7-Limited.pdf?v=1732264380\">Trekking 7 Limited<\/a><\/p><p><strong>City 7<\/strong><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_City7_Ultra.pdf?v=1731922672\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_City7_Ultra.pdf?v=1731922672\">City 7 Ultra<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_City7-LongRange.pdf?v=1732264392\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/0080\/6985\/files\/2025_Specsheets_City7-LongRange.pdf?v=1732264392\">City 7 Long Range<\/a><\/p>"
+                    }
+                }
+            },
+            "block_order": [
+                "74b58b59-664c-48db-843e-12796020e0ee",
+                "question_CQHRK7",
+                "39746658-b8a4-40cf-ab63-be50d971dfee",
+                "question_bqxE6C",
+                "14a3ac45-2786-4a9f-9c0c-ba5be5718843",
+                "question_V9wFTB"
+            ],
+            "disabled": true,
+            "custom_css": [
+                ".cc-accordion-item__panel {background: #ffffff; font-size: 16px;}",
+                ".strongly-spaced-row,.fully-spaced-row--medium {margin-bottom: 0;}",
+                "a {color: #1890ff;}"
+            ],
+            "settings": {
+                "title": ""
+            }
+        }
+    },
+    "order": [
+        "main",
+        "custom_textarea_9XWaQf",
+        "collapsible_tab_9AMgAj",
+        "16454987371479c140",
+    ]
+}

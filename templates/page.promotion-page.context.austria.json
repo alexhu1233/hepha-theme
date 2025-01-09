@@ -1,0 +1,21 @@
+{
+    "parent": "page.promotion-page.json",
+    "context": {
+        "market": "austria"
+    },
+    "sections": {
+        "collapsible_tab_UPzHhX": {
+            "settings": {},
+            "blocks": {
+                "panel_MfzUKB": {
+                    "disabled": true,
+                    "settings": {}
+                },
+                "panel_YRhUQt": {
+                    "disabled": true,
+                    "settings": {}
+                }
+            }
+        }
+    }
+}
