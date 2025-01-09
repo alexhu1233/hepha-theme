@@ -1,6 +1,4 @@
-# Hepha 主题概述
-
-# Hepha Theme Overview
+# Hepha New Theme Overview
 
 The Hepha Theme, built on the robust foundation of Symmetry version 7.3.0, provides a highly customizable framework tailored for creating visually appealing and functional online stores. This theme prioritizes user engagement and flexibility, making it an ideal choice for businesses aiming to enhance their online presence. By leveraging its diverse features, store owners can craft a unique shopping experience that resonates with their target audience.
 
